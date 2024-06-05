@@ -2,7 +2,7 @@
 
 Boas vindas rapeize 👋
 
-Meu nome é louis e esse é meu humilde perfil
+Meu nome é israel e esse é meu humilde perfil
 
 - Infelizmente estou estudando no [alura](https://www.alura.com.br)
 - Estou codando em javaScript
